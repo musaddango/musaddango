@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @musaddango
-- 👀 I’m interested in Software Engineering
+- 👋 Musa Dango
+- 👀 Software Engineer
 - 🌱 I’m currently learning Python
-- 📫 How to reach me musaddango@gmail.com
+- 📫 musaddango@gmail.com
 
