@@ -1,4 +1,4 @@
 - Musa Dango
-- Software Engineer
+- Software Developer
 - musaddango@gmail.com
 
